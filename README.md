@@ -10,8 +10,6 @@ Historian working on books, libraries, and religious texts in the early modern I
 ## Beyond GitHub
 
 - *Los libros de la selva. Bibliotecas jesuíticas en las misiones de guaraníes.* Buenos Aires: Ampersand (Scripta Manent), 2026.
-- "El giro digital en la historia del libro. Desafíos, metodologías y transformaciones recientes." *Anuario de la Escuela de Historia Virtual* 20 (2021): 22–44. [Read](https://revistas.unc.edu.ar/index.php/anuariohistoria/article/view/32069)
-- "El orden de los libros. Organización del conocimiento en las bibliotecas de las misiones jesuíticas de guaraníes." *Quinto Sol* 28, no. 1 (2024). [Read](https://cerac.unlpam.edu.ar/index.php/quintosol/article/view/7817)
-- "El libro para la frontera. Producción, circulación y recepción de un texto guaraní entre dos continentes." *Revista Brasileira de História* 44, no. 95 (2024): 1–25. [Read](https://www.scielo.br/j/rbh/a/kRFNx4WVYjMjGz9jz93fqRK/)
+- More publications on [ResearchGate](https://www.researchgate.net/profile/Fabian-Vega-2) and [Academia.edu](https://ucm.academia.edu/Fabi%C3%A1nVega).
 
 Madrid · Buenos Aires
