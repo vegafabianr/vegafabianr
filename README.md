@@ -1,6 +1,6 @@
 # Fabián R. Vega
 
-Historian working on books, libraries and religious texts in the early modern Iberian world, with digital humanities methods: open data, OCR, text analysis and visualization. Marie Skłodowska-Curie postdoctoral fellow at the Universidad Complutense de Madrid, with the project [JesLibSouth](https://cordis.europa.eu/project/id/101200600): *Books in the Borderlands of the Iberian Worlds: Jesuit Libraries and Cultural Transformation in South America (17th and 18th Centuries)*.
+Historian working on books, libraries, and religious texts in the early modern Iberian world, with digital humanities methods: open data, OCR, text analysis, and visualization. Marie Skłodowska-Curie postdoctoral fellow at the Universidad Complutense de Madrid, with the project [JesLibSouth](https://cordis.europa.eu/project/id/101200600): *Books in the Borderlands of the Iberian Worlds: Jesuit Libraries and Cultural Transformation in South America (17th and 18th Centuries)*.
 
 ## Projects
 
